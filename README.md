@@ -31,7 +31,9 @@
 
 ## I am Francesco Mecchi
 
-- Software Engineer
+- Software Engineer 💻
+- Basketball 🏀
+- Running 🏃🏻‍♂️ (run a marathon in 2022)
 
 <!-- ![Metrics](https://raw.githubusercontent.com/Frameck/Frameck/github-metrics/github-metrics.svg) -->
 <!-- ![Notable contributions](https://raw.githubusercontent.com/Frameck/Frameck/github-metrics/notable.svg) -->
