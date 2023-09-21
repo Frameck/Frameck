@@ -31,7 +31,7 @@
 
 ## I am Francesco Mecchi
 
-- Software Engineer 💻
+- Software Engineer 💻 (mainly interested in the TALL stack)
 - Basketball 🏀
 - Running 🏃🏻‍♂️ (run a marathon in 2022)
 
