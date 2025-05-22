@@ -31,7 +31,7 @@
 
 ## I am Francesco Mecchi
 
-- Software Engineer 💻 - mainly interested in the TALL stack
+- Software Engineer 💻 - mainly developing in Laravel PHP and Vue.js/Nuxt.js
 - Basketball 🏀
 - Running 🏃🏻‍♂️ - run a marathon in 2022
 
